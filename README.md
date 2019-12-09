@@ -1,2 +1,3 @@
-# validate_cnpj
-A simple pure Pyhton 3 function to validate CNPJ
+# Validate CPF and CNPJ (Validador de CPF e CNPJ)
+Simples pure Pyhton 3 functions to validate CPF and CNPJ
+Simples funções em Python 3 puro para validar CPF e CNPJ
